@@ -32,5 +32,5 @@
 	- Pressable
 	- Linking API
 
-![image](![image](https://user-images.githubusercontent.com/90651304/171765169-c91ed82e-a74b-48f7-90ef-473a60d0d2d5.png)
+![image](https://user-images.githubusercontent.com/90651304/171765169-c91ed82e-a74b-48f7-90ef-473a60d0d2d5.png)
 
